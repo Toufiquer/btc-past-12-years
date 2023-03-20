@@ -1,4 +1,4 @@
-import data from "./btc2022.json" assert { type: "json" };
+import data from "./downloadData/json/btc2022.json" assert { type: "json" };
 
 const newArr = data.sort((a, b) => {
   //   if (a["Date"] === "Nov 10, 2022") {
