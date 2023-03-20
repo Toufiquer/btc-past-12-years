@@ -1,15 +1,63 @@
 [
-  { "year": "2010", "Negative Change": "34", "Positive Change": "" },
-  { "year": "2011", "Negative Change": "34", "Positive Change": "" },
-  { "year": "2012", "Negative Change": "34", "Positive Change": "" },
-  { "year": "2013", "Negative Change": "34", "Positive Change": "" },
-  { "year": "2014", "Negative Change": "34", "Positive Change": "" },
-  { "year": "2015", "Negative Change": "34", "Positive Change": "" },
-  { "year": "2016", "Negative Change": "34", "Positive Change": "" },
-  { "year": "2017", "Negative Change": "34", "Positive Change": "" },
-  { "year": "2018", "Negative Change": "34", "Positive Change": "" },
-  { "year": "2019", "Negative Change": "34", "Positive Change": "" },
-  { "year": "2020", "Negative Change": "34", "Positive Change": "" },
-  { "year": "2021", "Negative Change": "34", "Positive Change": "" },
-  { "year": "2022", "Negative Change": "34", "Positive Change": "" }
+  { "year": "2010", "Negative Change %": "-28.53", "Positive Change %": "50" },
+  {
+    "year": "2011",
+    "Negative Change %": "-38.83",
+    "Positive Change %": "52.89"
+  },
+  {
+    "year": "2012",
+    "Negative Change %": "-31.09",
+    "Positive Change %": "26.25"
+  },
+  {
+    "year": "2013",
+    "Negative Change %": "-28.26",
+    "Positive Change %": "48.26"
+  },
+  {
+    "year": "2014",
+    "Negative Change %": "-57.21",
+    "Positive Change %": "336.84"
+  },
+  {
+    "year": "2015",
+    "Negative Change %": "-25.47",
+    "Positive Change %": "27.20"
+  },
+  {
+    "year": "2016",
+    "Negative Change %": "-15.42",
+    "Positive Change %": "12.67"
+  },
+  {
+    "year": "2017",
+    "Negative Change %": "-16.21",
+    "Positive Change %": "25.56"
+  },
+  {
+    "year": "2018",
+    "Negative Change %": "-17.05",
+    "Positive Change %": "13.85"
+  },
+  {
+    "year": "2019",
+    "Negative Change %": "-13.59",
+    "Positive Change %": "17.23"
+  },
+  {
+    "year": "2020",
+    "Negative Change %": "-39.18",
+    "Positive Change %": "15.71"
+  },
+  {
+    "year": "2021",
+    "Negative Change %": "-14.40",
+    "Positive Change %": "19.41"
+  },
+  {
+    "year": "2022",
+    "Negative Change %": "-15.63",
+    "Positive Change %": "14.59"
+  }
 ]
